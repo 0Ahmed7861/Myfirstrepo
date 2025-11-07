@@ -23,15 +23,15 @@
 <div class="container mt-5">
   <div class="row">
     <div class="col-sm-4">
-      <h3>Column 1</h3>
+      <h3>Cake is used </h3>
       <p>Lorem ipsum...</p>
     </div>
     <div class="col-sm-4">
       <h3>Column 2</h3>
-      <p>Lorem ipsum...</p>
+      <p>cake with candel</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 3</h3>
+      <h3>expired cake</h3>
       <p>Lorem ipsum...</p>
     </div>
   </div>
